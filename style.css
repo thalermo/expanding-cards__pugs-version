@@ -43,11 +43,15 @@ body {
   opacity: 0;
   color: white;
   text-shadow: 2px 3px 1px black;
-  width: 50%;
+  width: 25%;
 }
 
 .panel.active {
   flex: 5;
+}
+
+.panel:nth-of-type(2) {
+  background-position: top;
 }
 
 .panel.active h3 {
