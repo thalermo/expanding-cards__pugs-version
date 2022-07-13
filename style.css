@@ -41,8 +41,8 @@ body {
   left: 20px;
   margin: 0;
   opacity: 0;
-  color: #2a2929;
-  text-shadow: 0px 2px 2px #e3cfae;
+  color: white;
+  text-shadow: 2px 3px 1px black;
   width: 50%;
 }
 
